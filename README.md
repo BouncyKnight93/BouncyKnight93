@@ -2,7 +2,7 @@
 
 
 ###
-I'm BouncyKnight!
+I'm BouncyKnight,
 
 ### I'm Currently:
 | Studying for CPTS
@@ -10,6 +10,15 @@ I'm BouncyKnight!
 | Building Python tools
 
 | Building Local AI for fun
+
+-------
+## Feel Free to Look Around
+
+All finished projects are posted in dedicated repositories. 
+
+Please check the DEVS repository for ongoing projects.
+
+Any feedback is appreciated!
 
 -------
 
