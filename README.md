@@ -32,23 +32,23 @@ Any feedback is appreciated!
   </tr>
   <tr align="center">
     <td style="border: none; padding: 8px;">Python</td>
-    <td align="left"><sub>Scripts</sub></td>
-    <td align="left"><sub>High</sub></td>
+    <td align="center"><sub>Scripts</sub></td>
+    <td align="center"><sub>High</sub></td>
   </tr>
     <tr align="center">
     <td style="border: none; padding: 8px;">PowerShell</td>
-    <td align="left"><sub>Scripting & development</sub></td>
-    <td align="left"><sub>Medium</sub></td>
+    <td align="center"><sub>Scripting & development</sub></td>
+    <td align="center"><sub>Medium</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;">Shell & Batch</td>
-    <td align="left"><sub>System scripting</sub></td>
-    <td align="left"><sub>Medium</sub></td>
+    <td align="center"><sub>System scripting</sub></td>
+    <td align="center"><sub>Medium</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;">KQL</td>
-    <td align="left"><sub>Threat Hunting</sub></td>
-    <td align="left"><sub>Medium</sub></td>
+    <td align="center"><sub>Threat Hunting</sub></td>
+    <td align="center"><sub>Medium</sub></td>
   </tr>
 </table>
 
