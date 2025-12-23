@@ -1,16 +1,49 @@
-## Hi there 👋
+<h2 align="left"> Greetings Traveler</h2>
 
-<!--
-**BouncyKnight93/BouncyKnight93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
+I'm BouncyKnight!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Currently:
+| Studying for CPTS
+
+| Building Python tools
+
+| Building Local AI for fun
+
+-------
+
+## Languages
+<!--Languages Table -->
+<table border="0" style="border-collapse: collapse; width: 100%;">
+  <tr align="center">
+    <th style="border: none; padding: 8px;"></th>
+    <th style="border: none; padding: 8px;">Language</th>
+    <th style="border: none; padding: 8px;">Usage</th>
+  </tr>
+  <tr align="center">
+    <td style="border: none; padding: 8px;">Python</td>
+    <td align="left"><sub>Scripting & development</sub></td>
+  </tr>
+    <tr align="center">
+    <td style="border: none; padding: 8px;">PowerShell</td>
+    <td align="left"><sub>Scripting & development</sub></td>
+  </tr>
+  <tr align="center" style="border: none;">
+    <td style="border: none; padding: 8px;">Shell & Batch</td>
+    <td align="left"><sub>Simple system scripting</sub></td>
+  </tr>
+  <tr align="center" style="border: none;">
+    <td style="border: none; padding: 8px;">KQL</td>
+    <td align="left"><sub>Microsoft MDE/Sentinel Threat Hunting</sub></td>
+  </tr>
+</table>
+
+###
+
+-------
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="./Assets/betterEyes.png" height="28"/><img src="https://profile-counter.glitch.me/AptAmoeba/count.svg?"/>
+</div>
