@@ -28,22 +28,27 @@ Any feedback is appreciated!
   <tr align="center">
     <th style="border: none; padding: 8px;">Language</th>
     <th style="border: none; padding: 8px;">Usage</th>
+    <th style="border: none; padding: 8px;">Experience</th>
   </tr>
   <tr align="center">
     <td style="border: none; padding: 8px;">Python</td>
-    <td align="left"><sub>Scripting & development</sub></td>
+    <td align="left"><sub>Scripts</sub></td>
+    <td align="left"><sub>High</sub></td>
   </tr>
     <tr align="center">
     <td style="border: none; padding: 8px;">PowerShell</td>
     <td align="left"><sub>Scripting & development</sub></td>
+    <td align="left"><sub>Medium</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;">Shell & Batch</td>
-    <td align="left"><sub>Simple system scripting</sub></td>
+    <td align="left"><sub>System scripting</sub></td>
+    <td align="left"><sub>Medium</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;">KQL</td>
-    <td align="left"><sub>Microsoft MDE/Sentinel Threat Hunting</sub></td>
+    <td align="left"><sub>Threat Hunting</sub></td>
+    <td align="left"><sub>Medium</sub></td>
   </tr>
 </table>
 
