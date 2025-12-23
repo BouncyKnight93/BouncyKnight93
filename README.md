@@ -17,7 +17,6 @@ I'm BouncyKnight!
 <!--Languages Table -->
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <tr align="center">
-    <th style="border: none; padding: 8px;"></th>
     <th style="border: none; padding: 8px;">Language</th>
     <th style="border: none; padding: 8px;">Usage</th>
   </tr>
