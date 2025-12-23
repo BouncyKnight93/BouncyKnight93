@@ -47,7 +47,7 @@ Any feedback is appreciated!
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;">KQL</td>
-    <td style="border: none; padding: 6px;"><sub>Threat Hunting</sub></td>
+    <td style="border: none; padding: 8px;"><sub>Threat Hunting</sub></td>
     <td style="border: none; padding: 6px;"><sub>Medium</sub></td>
   </tr>
 </table>
